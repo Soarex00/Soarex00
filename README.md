@@ -52,14 +52,6 @@ Atuo tanto no **front-end quanto no back-end**, desenvolvendo interfaces eficien
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge\&logo=github)
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soarex00\&show_icons=true\&theme=tokyonight\&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soarex00\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
 
 ## 🌐 Contato
 
