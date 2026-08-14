@@ -1,71 +1,25 @@
-# 💻 Conrado Soares
+# 👋 Olá, eu sou o Conrado!
 
-Desenvolvedor Full Stack focado em construir aplicações web modernas, com código limpo, boa organização e atenção à escalabilidade.
+Desenvolvedor **Full Stack com foco em Backend**, trabalhando principalmente com **JavaScript, TypeScript, Node.js, React e PostgreSQL**.
 
-Atuo tanto no **front-end quanto no back-end**, desenvolvendo interfaces eficientes e APIs bem estruturadas.
-
----
-
-## 🚀 Sobre mim
-
-* 💼 **Objetivo:** Desenvolvedor Full Stack
-* 🧠 **Foco atual:** Arquitetura de sistemas e boas práticas
-* ⚙️ **Stack principal:** JavaScript, TypeScript, Node.js e React
-* 🗄️ **Bancos de dados:** PostgreSQL e MySQL
-* 🌍 **Localização:** Brasil
-* 📈 **Buscando:** Primeira oportunidade como desenvolvedor
+Atualmente venho aprofundando meus conhecimentos em **arquitetura de software, APIs, bancos de dados, performance e segurança**, buscando entender não apenas como construir sistemas, mas como fazê-los funcionar bem em produção.
 
 ---
 
-## 🧠 Diferenciais
+## 🚀 Tecnologias
 
-* Experiência trabalhando com **front-end e back-end de forma integrada**
-* Código limpo e organizado
-* Boa base em lógica e estrutura de aplicações
-* Conhecimento em separação de responsabilidades (camadas, serviços, etc.)
-* Familiaridade com Git e fluxo de versionamento
-
----
-
-## 🛠️ Stack
-
-### 💡 Linguagens
-
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge\&logo=typescript)
-
-### ⚛️ Front-end
-
-![React](https://img.shields.io/badge/React-111?style=for-the-badge\&logo=react)
-
-### 🔧 Back-end
-
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge\&logo=node.js)
-
-### 🗄️ Banco de dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge\&logo=mysql)
-
-### ⚙️ Ferramentas
-
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge\&logo=github)
-
-
-## 🌐 Contato
-
-* 🔗 LinkedIn: [https://www.linkedin.com/in/conrado-soares-387317207](https://www.linkedin.com/in/conrado-soares-387317207)
-* 💻 GitHub: [https://github.com/Soarex00](https://github.com/Soarex00)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
 
 ---
 
-## 🎯 Objetivos
+## 📫 Contato
 
-* [ ] Evoluir como desenvolvedor Full Stack sólido
-* [ ] Aprofundar conhecimentos em arquitetura e padrões
-* [ ] Construir projetos completos com deploy
-* [ ] Contribuir com open source
-* [ ] Conquistar minha primeira oportunidade na área
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conrado_Soares-111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/conrado-soares-387317207)
 
-
+[![GitHub](https://img.shields.io/badge/GitHub-Soarex00-111?style=for-the-badge&logo=github)](https://github.com/Soarex00)
